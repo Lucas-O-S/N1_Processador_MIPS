@@ -1,1 +1,1 @@
-# N1---Processador-MIPS
+# N1 - Processador MIPS
